@@ -9,7 +9,7 @@ A simple Python-based Command-Line Interface (CLI) tool that fetches real-time w
 - Fetches current weather data for a given city.
 - Displays the weather description (e.g., clear sky, rain).
 - Shows the temperature in Celsius and humidity levels.
- -Easy-to-use interactive CLI where the user enters a city name.
+-Easy-to-use interactive CLI where the user enters a city name.
 
 
 **Technologies Used**
